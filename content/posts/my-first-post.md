@@ -5,8 +5,7 @@ draft: true
 ---
 
 我的第一篇博客
-抽奖实现
-JS部分
+原生JS实现抽奖
 ```
 var playBtn = document.getElementById('play');
 // 获取所有td元素，获取到伪数组
